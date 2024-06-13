@@ -1,2 +1,2 @@
-# wp-theme-coding
+# WP Theme Coding
  
